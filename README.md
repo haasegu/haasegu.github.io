@@ -1,4 +1,4 @@
-| [About me(#about)] | [some quotes(#quotes)]
+[About me(#about)] | [some quotes(#quotes)]
 ## About me <a name="about">
 ---
 klksalksa
