@@ -1,4 +1,4 @@
-[About me](#about) | [Quotes(#quotes)]
+[About me](#about) | [Quotes](#quotes)
 # Gundolf Haase
 ## About me <a name="about"></a>
 ---
